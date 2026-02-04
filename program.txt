@@ -1,0 +1,5 @@
+load r1 1
+load r2 1
+add r2 r1 r2
+multiply r2 r2 r2
+jump 2
