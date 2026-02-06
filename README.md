@@ -14,7 +14,3 @@ A Simple CPU emulator that can perform Programs
 ## Usage
 
 To run the emulator, execute `main.py`. The emulator will then likely load and execute programs from `program.txt` using the components defined in `CPU.py`, `ProgramCompiler.py`, and `UI.py`.
-
-## Notes
-
-The exact functionality and interaction between the files are not detailed. The `__pycache__` directory is a standard Python optimization and does not require user interaction.
