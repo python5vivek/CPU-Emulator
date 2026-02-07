@@ -1,7 +1,7 @@
 # CPU-Emulator
 
 A Simple CPU emulator that can perform Programs
-
+Similar to the Assembly
 ## Files
 
 *   `CPU.py`: Contains the CPU emulation logic.
